@@ -1,0 +1,268 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://172.0.12.125:9393/IIIFv3/DOCID/NNL_ALEPH51301102240005171/manifest",
+    "type": "Manifest",
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "heb": [
+                "Source: Bibliothèque Nationale de France, The National Library of Israel. \"Ktiv\" Project, The National Library of Israel."
+            ]
+        }
+    },
+    "rights": [
+        "https://www.nli.org.il/contenteditors/pages-for-terms-of-use/hebrew-manuscripts-public-domain-non-commercial-copying"
+    ],
+    "label": [
+        {
+            "heb": "מדרש אגדה."
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "https://rosetta.nlitest.org.il/delivery/DeliveryManagerServlet?dps_func=thumbnail&dps_pid=FL162717143",
+            "type": "Image",
+            "format": "image/jpeg"
+        }
+    ],
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Title"
+                ]
+            },
+            "value": {
+                "heb": [
+                    "מדרש אגדה."
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Base"
+                ]
+            },
+            "value": {
+                "heb": [
+                    "972NNL_INST"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Subject"
+                ]
+            },
+            "value": {
+                "heb": [
+                    "Midrash"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Source"
+                ]
+            },
+            "value": {
+                "heb": [
+                    "The National Library of Israel"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Doc Id"
+                ]
+            },
+            "value": {
+                "heb": [
+                    "NNL_ALEPH51301102240005171"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Creation Date"
+                ]
+            },
+            "value": {
+                "heb": [
+                    "מאה י\"א"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Type"
+                ]
+            },
+            "value": {
+                "heb": [
+                    "manuscript"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Format"
+                ]
+            },
+            "value": {
+                "heb": [
+                    "דף 1 ; 17X10 ס\"מ.; דף קלף מגניזת קהיר. 24 שורות לעמוד."
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Language"
+                ]
+            },
+            "value": {
+                "heb": [
+                    "heb"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "SysNum"
+                ]
+            },
+            "value": {
+                "heb": [
+                    "51301102240005171"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "http://172.0.12.125:9393/IIIFv3/NNL_ALEPH51301102240005171/sequence/IE162717136",
+            "type": "Canvas",
+            "label": "Heb 1489.8",
+            "items": [
+                {
+                    "id": "http://172.0.12.125:9393/IIIFv3/FL162717141",
+                    "type": "AnnotationPage",
+                    "label": "Frag. 001r",
+                    "width": 1921,
+                    "height": 2981,
+                    "items": [
+                        {
+                            "id": "FL162717141",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "on": "http://172.0.12.125:9393/IIIFv3/FL162717141",
+                            "resource": {
+                                "id": "http://172.0.12.125:9393/IIIFv3/FL162717141/full/max/0/default.jpg",
+                                "type": "dctypes:Image",
+                                "label": "Frag. 001r",
+                                "format": "image/jpeg;",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "id": "http://172.0.12.125:9393/IIIFv3/FL162717141",
+                                    "label": "Frag. 001r",
+                                    "profile": "http://iiif.io/api/image/3/level1.json"
+                                },
+                                "height": 2981,
+                                "width": 1921
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "http://172.0.12.125:9393/IIIFv3/FL162717143",
+                    "type": "AnnotationPage",
+                    "label": "Frag. 001v",
+                    "width": 1896,
+                    "height": 2965,
+                    "items": [
+                        {
+                            "id": "FL162717143",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "on": "http://172.0.12.125:9393/IIIFv3/FL162717143",
+                            "resource": {
+                                "id": "http://172.0.12.125:9393/IIIFv3/FL162717143/full/max/0/default.jpg",
+                                "type": "dctypes:Image",
+                                "label": "Frag. 001v",
+                                "format": "image/jpeg;",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "id": "http://172.0.12.125:9393/IIIFv3/FL162717143",
+                                    "label": "Frag. 001v",
+                                    "profile": "http://iiif.io/api/image/3/level1.json"
+                                },
+                                "height": 2965,
+                                "width": 1896
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "structures": [
+        {
+            "id": "REP162717140",
+            "type": "Range",
+            "label": "REP162717140",
+            "items": [
+                {
+                    "id": "http://172.0.12.125:9393/IIIFv3/FL162717141",
+                    "type": "Canvas",
+                    "label": "Frag. 001r"
+                },
+                {
+                    "id": "http://172.0.12.125:9393/IIIFv3/FL162717143",
+                    "type": "Canvas",
+                    "label": "Frag. 001v"
+                }
+            ]
+        }
+    ],
+    "behavior": [
+        "paged"
+    ],
+    "provider": [
+        {
+            "homepage": {
+                "id": "https://www.nli.org.il/en/manuscript/NNL_ALEPH003599103",
+                "type": "Text",
+                "format": "text/html",
+                "label": {
+                    "en": [
+                        "HomePage"
+                    ]
+                }
+            },
+            "logo": [
+                {
+                    "id": "http://172.0.12.151:8080/IIIFv3/images/nli_logo.jpg",
+                    "type": "Image"
+                }
+            ],
+            "label": {
+                "heb": [
+                    "מדרש אגדה."
+                ]
+            }
+        }
+    ]
+}
